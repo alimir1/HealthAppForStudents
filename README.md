@@ -8,7 +8,7 @@
 ## Before you begin
 
 1. Create a new iOS project
-2. Call it "Health App Beg"
+2. Save it as `Health App Beg`
 3. Save the project
 4. Download these [images](https://github.com/alimir1/HealthAppForStudents/tree/master/HealthAppImages) and save them to your assets folder on your XCode project.
 
@@ -28,7 +28,8 @@ There will be two ViewControllers: HomeViewController & ResultViewController. Ho
 
 ### ResultViewController
 <img src='https://i.imgur.com/Vr69Ge6.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-* Labels that display information for the user's: mood, gender, full name, height, weight, and date of birth
+
+* Labels that display information for the user's: mood, gender, full name, height, weight, and date of birth.
 * Make sure to add gray background appropriately to distingush from other labels.
 
 ## Hints
@@ -40,12 +41,22 @@ There will be two ViewControllers: HomeViewController & ResultViewController. Ho
 <img src='http://i.imgur.com/NkWHpFi.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Working with UISegmentedControl
-if segmentedControl.selectedSegmentIndex == 0, do something...
+```swift
+if segmentedControl.selectedSegmentIndex == 0 {
+  // do something
+} else if segmentedControl.selectedSegmentIndex == 1 {
+  // do something else
+} else {
+  // do something else
+}
+```
 
 ### Dismiss Keyboard
 <img src='https://i.imgur.com/nGd0HJ4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Formatting Date Object
+```swift
 let dateFormatter = DateFormatter()
 dateFormatter.dateFormat = "MM/dd/yyyy"
-let dateString = dateFormatter.string(from: DATE OBJECT GOES HERE) <---- THIS IS YOUR STRING
+let dateString = dateFormatter.string(from: ```DATE OBJECT GOES HERE```) // <---- THIS IS YOUR STRING
+```
