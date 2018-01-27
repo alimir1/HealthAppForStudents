@@ -33,7 +33,7 @@ Table of contents
 ## Required Features
 
 ### Overview
-There will be two `ViewController`s: `HomeViewController` & `ResultViewController`. `HomeViewController` will collect information from the user and `ResultViewController` will display the information that was collected on the `HomeViewController`.
+There will be two `ViewController`s: `HomeViewController` & `ResultViewController`. `HomeViewController` will collect information from the user and `ResultViewController` will display the information that was collected from the `HomeViewController`.
 
 ### `HomeViewController`
 <img src='https://i.imgur.com/vYh66Tc.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
