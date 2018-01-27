@@ -1,10 +1,6 @@
 # Health App Beg
 **Health App Beg** is an iOS app (for beginners) that receives health information from patients and displays result for doctor to see.
 
-***
-
-## Video Walkthrough
-
 <img src='https://i.imgur.com/R8Lvwl6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Table of contents
