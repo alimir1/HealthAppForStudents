@@ -14,7 +14,8 @@
 
 ## Required Features
 
-Overview: There will be two ViewControllers: HomeViewController & ResultViewController. HomeViewController will collect information from the user and ResultViewController will display the information that was collected on the HomeViewController.
+**Overview**
+There will be two ViewControllers: HomeViewController & ResultViewController. HomeViewController will collect information from the user and ResultViewController will display the information that was collected on the HomeViewController.
 
 ### HomeViewController
 <img src='https://i.imgur.com/vYh66Tc.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
