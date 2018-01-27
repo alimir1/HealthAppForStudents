@@ -42,7 +42,7 @@ There will be two `ViewController`s: `HomeViewController` & `ResultViewControlle
 * `UISegmentedControl` for gender
 * 3 `UITextField`s: full name, height, and weight
 * `UIDatePicker` for date of birth (remember to set 'mode' to 'Date' on the attribute inspector)
-* `UIButton` at the very bottom that takes users to the ResultViewController -- do this VISUALLY.
+* `UIButton` at the very bottom that takes users to the `ResultViewController` -- do this VISUALLY.
 
 ### `ResultViewController`
 <img src='https://i.imgur.com/Vr69Ge6.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
