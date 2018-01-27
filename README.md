@@ -16,6 +16,11 @@ Table of contents
   * [`HomeViewController`](#homeviewcontroller)
   * [`ResultViewController`](#resultviewcontroller)
 * [Hints](#hints)
+  * [Saving Mood](#saving-mood)
+  * [Set image programatically](#set-image-programatically)
+  * [Working with `UISegmentedControl`](#working-with-uisegmentedcontrol)
+  * [Dismiss Keyboard](#dismiss-keyboard)
+  * [Formatting `Date`](#formatting-date)
 
 ## Before you begin
 
@@ -52,7 +57,7 @@ There will be two `ViewController`s: `HomeViewController` & `ResultViewControlle
 ### Saving Mood
 <img src='https://i.imgur.com/qiufNvP.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-### Set image programatically**
+### Set image programatically
 <img src='http://i.imgur.com/NkWHpFi.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Working with `UISegmentedControl`
