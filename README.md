@@ -21,7 +21,7 @@ Table of contents
 
 1. Create a new iOS project
 2. Save it as `Health App Beg`
-4. Download these [images](https://github.com/alimir1/HealthAppForStudents/tree/master/HealthAppImages) and save them to your assets folder on your XCode project.
+4. Download [these images](https://github.com/alimir1/HealthAppForStudents/tree/master/HealthAppImages) and save them to your assets folder on your XCode project.
 
 ***
 
