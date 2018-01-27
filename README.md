@@ -29,6 +29,7 @@ There will be two ViewControllers: HomeViewController & ResultViewController. Ho
 ### ResultViewController
 <img src='https://i.imgur.com/Vr69Ge6.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 * Labels that display information for the user's: mood, gender, full name, height, weight, and date of birth
+* Make sure to add gray background appropriately to distingush from other labels.
 
 ## Hints
 
