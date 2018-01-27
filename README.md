@@ -1,15 +1,21 @@
 # Health App Beg
 **Health App Beg** is an iOS app (for beginners) that receives health information from patients and displays result for doctor to see.
 
-[Test](#video-walkthrough)
-
 ***
 
 ## Video Walkthrough
 
 <img src='https://i.imgur.com/R8Lvwl6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-***
+Table of contents
+=================
+
+* [Before you begin](#before-you-begin)
+* [Required Features](#required-features)
+  * [Overview](#overview)
+  * [`HomeViewController`](#homeviewcontroller)
+  * [`ResultViewController`](#resultviewcontroller)
+* [Hints](#hints)
 
 ## Before you begin
 
@@ -21,7 +27,7 @@
 
 ## Required Features
 
-**Overview:**
+## Overview
 There will be two `ViewController`s: `HomeViewController` & `ResultViewController`. `HomeViewController` will collect information from the user and `ResultViewController` will display the information that was collected on the `HomeViewController`.
 
 ### `HomeViewController`
