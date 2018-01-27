@@ -1,15 +1,21 @@
 # Health App Beg
 **Health App Beg** is an iOS app (for beginners) that receives health information from patients and displays result for doctor to see.
 
+***
+
 ## Video Walkthrough
 
 <img src='https://i.imgur.com/R8Lvwl6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+***
 
 ## Before you begin
 
 1. Create a new iOS project
 2. Save it as `Health App Beg`
 4. Download these [images](https://github.com/alimir1/HealthAppForStudents/tree/master/HealthAppImages) and save them to your assets folder on your XCode project.
+
+***
 
 ## Required Features
 
@@ -30,6 +36,8 @@ There will be two `ViewController`s: `HomeViewController` & `ResultViewControlle
 
 * `UILabels` that display information for the user's: mood, gender, full name, height, weight, and date of birth.
 * Make sure to add gray background appropriately to distingush from other labels.
+
+***
 
 ## Hints
 
