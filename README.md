@@ -39,7 +39,7 @@ There will be two `ViewController`s: `HomeViewController` & `ResultViewControlle
 <img src='https://i.imgur.com/Vr69Ge6.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 * `UILabels` that display information for the user's: mood, gender, full name, height, weight, and date of birth.
-* Make sure to add gray background appropriately to distingush from other labels.
+* Add gray background color to some `UILabel`s appropriately.
 
 ***
 
